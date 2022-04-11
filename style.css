@@ -1,0 +1,24 @@
+.my-input {
+    border:0;
+    outline: none;
+    margin: 5px;
+}
+
+.tag-span{
+    background-color: rgba(63, 161, 191, .3);
+    height: 50px;
+    font-size: 15px;
+    padding: 3px;
+    margin: 8px;
+}
+
+.tags-container{
+    width: 80%;
+    height: 300px;
+    border: 2px solid rgba(24, 22, 28, .2);
+}
+
+.icon{
+    font-size: 15px;
+    padding: 5px;
+}
